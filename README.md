@@ -1,4 +1,10 @@
 
+**FORKED FROM**: https://github.com/IQAndreas/markdown-licenses
+
+Adjusted to work with my templating.
+
+------------------------------------------------------------------
+
 ## Markdown Licenses
 
 A collection of open source licenses in [Markdown format](http://daringfireball.net/projects/markdown/).
